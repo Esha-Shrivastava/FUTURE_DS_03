@@ -48,15 +48,19 @@ Step 4: Final Recommendations
 
 💡 Key Insights
 
-- Students rated **subject knowledge**, **clarity of explanations**, and **teacher support** very positively.
-- **Course structure** and **assignment difficulty** had mixed feedback.
+- Subject knowledge and concept clarity received the highest ratings, indicating students were confident in the instructors’ expertise    and delivery.
+- Assignment difficulty and doubt resolution scored lower, suggesting students faced challenges with workload and real-time support.
 - Sentiment analysis revealed a **predominantly positive tone** in comments, with some areas needing attention.
 
-Recommendations for Organizers
+> Recommendations for Organizers
 
-- Make assignments more balanced and less stressful  
-- Use more engaging and visually clear presentations  
-- Offer clearer structure and expectations throughout the course
+1. Balance the difficulty level of assignments to avoid overwhelming students while maintaining quality.
+
+2. Improve doubt-solving mechanisms (e.g., doubt-clearing sessions, discussion forums).
+
+3. Keep strengthening subject delivery and concept clarity, as they are key student strengths.
+
+4. Periodic feedback loops can help identify and act on evolving concerns.
 
 📎 Files Included
 
