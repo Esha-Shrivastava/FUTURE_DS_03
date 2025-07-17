@@ -17,13 +17,13 @@ To analyze student feedback data from campus events and convert raw responses in
 
 🛠 Tools & Libraries Used
 
-1. Google Colab – For running Python-based Jupyter notebooks without local setup
+1. **Google Colab** – For running Python-based Jupyter notebooks without local setup
 
-2. pandas – Used for data manipulation, exploration, and cleaning
+2. **pandas** – Used for data manipulation, exploration, and cleaning
 
-3. seaborn & matplotlib – For creating clear and insightful visualizations
+3. **seaborn & matplotlib** – For creating clear and insightful visualizations
 
-4. TextBlob – Applied for performing sentiment analysis using basic NLP techniques
+4. **TextBlob** – Applied for performing sentiment analysis using basic NLP techniques
 
 📊 Key Tasks Performed
 
