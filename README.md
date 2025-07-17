@@ -1,4 +1,4 @@
-🎓 Task 3 – College Event Feedback Analysis (Internship Project)
+🎓 Task 3 – College Event Feedback Analysis 
 
 **Internship:** Future Interns – Data Science & Analytics  
 **Track Code:** DS  
