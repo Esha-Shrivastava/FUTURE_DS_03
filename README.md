@@ -69,7 +69,7 @@ Step 4: Final Recommendations
 - `College_Event_Feedback_Analysis.ipynb` – Google Colab notebook with full analysis
 - `student_feedback.csv` – Original dataset used
 
-## 🔗 LinkedIn Project Showcase
+🔗 LinkedIn Project Showcase
 Link: https://www.linkedin.com/posts/esha-adhya-shrivastava-02728a313_futureinterns-datascience-dataanalytics-activity-7352003517085089793-LOmc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-Y058BUS8Eys8F6dTroshSgI-1ot_aC3g
 
 
