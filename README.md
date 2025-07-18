@@ -46,13 +46,15 @@ Step 3: Sentiment Analysis
 
 Step 4: Final Recommendations
 
-💡 Key Insights
+💡 Key Insights:
 
 - Subject knowledge and concept clarity received the highest ratings, indicating students were confident in the instructors’ expertise    and delivery.
+  
 - Assignment difficulty and doubt resolution scored lower, suggesting students faced challenges with workload and real-time support.
+  
 - Sentiment analysis revealed a **predominantly positive tone** in comments, with some areas needing attention.
 
-* Recommendations for Organizers
+👉 Recommendations for Future Events:
 
 1. Balance the difficulty level of assignments to avoid overwhelming students while maintaining quality.
 
