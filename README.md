@@ -52,7 +52,7 @@ Step 4: Final Recommendations
 - Assignment difficulty and doubt resolution scored lower, suggesting students faced challenges with workload and real-time support.
 - Sentiment analysis revealed a **predominantly positive tone** in comments, with some areas needing attention.
 
-> Recommendations for Organizers
+* Recommendations for Organizers
 
 1. Balance the difficulty level of assignments to avoid overwhelming students while maintaining quality.
 
